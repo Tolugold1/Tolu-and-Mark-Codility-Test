@@ -20,3 +20,4 @@ This repository is structured according to the Codility coding challenges. Each 
 
 ## Contact
 * If you have any questions or suggestions about this repository, please contact:
+* Email: toluadelekesteve@gmail.com
