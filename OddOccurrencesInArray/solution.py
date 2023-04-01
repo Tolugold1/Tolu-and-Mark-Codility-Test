@@ -3,4 +3,4 @@ def Solutio(A):
     for element in A:
         # XOR operator
         ans = ans ^ element
-        return ans
+    return ans
